@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Polaris</title>
+    <link>https://polaris.chuongle.dev</link>
+    <language>en</language>
+    <item>
+      <title>Version 1.1</title>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/onstonboy/polaris-dl/releases/download/v1.1/Polaris.dmg"
+        length="6050356"
+        type="application/octet-stream"
+        sparkle:edSignature="YEALZlvBxSxmpRY6Q6vB+x8Gb4YNDFEU1SuVxv2v/7Vmr4hLtXBj/zcXCwhDW74mv/V7L8C8X4wlTUhRRBnwAQ=="/>
+    </item>
+  </channel>
+</rss>
