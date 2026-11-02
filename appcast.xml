@@ -33,9 +33,9 @@
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/onstonboy/polaris-dl/releases/download/v1.3.0/Polaris.dmg"
-        length="7119684"
+        length="7178229"
         type="application/octet-stream"
-        sparkle:edSignature="+sfTi8AHsvmCbZlSP/9CnqUSKcbQrEUtjcEjyXEohUARqIBoRu9r65F/LUchpEuESxS5/0l1enWCA8EqjTL4Ag=="/>
+        sparkle:edSignature="aiUeFZG/1SKH6eOOW0qaanJ3DOGUnxnbaGY2Ljm41uSVb/6aONm8zMpRlH8T5UA9t5b/sHH38QL1nEbb78VtAw=="/>
     </item>
   </channel>
 </rss>
