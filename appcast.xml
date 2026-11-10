@@ -73,7 +73,7 @@
     <item>
       <title>Version 1.4.1</title>
       <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
-      <sparkle:version>7</sparkle:version>
+      <sparkle:version>5</sparkle:version>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/onstonboy/polaris-dl/releases/download/v1.4.1/Polaris.dmg"
@@ -91,6 +91,17 @@
         length="8524714"
         type="application/octet-stream"
         sparkle:edSignature="xLGmy15rapvciCCE+7NSAFZGLAS2v6eDKRGobEC+zZU6mQ76F+ELDN0E1R/IdGh0fimKkkrfTI9wlTWj6qQTDA=="/>
+    </item>
+    <item>
+      <title>Version 1.6.0</title>
+      <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/onstonboy/polaris-dl/releases/download/v1.6.0/Polaris.dmg"
+        length="8545410"
+        type="application/octet-stream"
+        sparkle:edSignature="xv5K20w6rRQMBwiRZtIQTs8CdrO8DpaArOk2HHrPV9VFlCfB0X+SkYc+Zn8wvfl+08U0ArDexiN74x3aiNnJCg=="/>
     </item>
   </channel>
 </rss>
