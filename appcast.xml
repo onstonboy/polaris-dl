@@ -103,5 +103,16 @@
         type="application/octet-stream"
         sparkle:edSignature="xv5K20w6rRQMBwiRZtIQTs8CdrO8DpaArOk2HHrPV9VFlCfB0X+SkYc+Zn8wvfl+08U0ArDexiN74x3aiNnJCg=="/>
     </item>
+    <item>
+      <title>Version 1.7.0</title>
+      <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/onstonboy/polaris-dl/releases/download/v1.7.0/Polaris.dmg"
+        length="8562362"
+        type="application/octet-stream"
+        sparkle:edSignature="NBkTdLD40EuvJY3x3sHl9LsXluruxlp90Y5eWYacOnDFmuJ2noIS83yHRNiLcojauroQtsPVvlHheExSWQpxAg=="/>
+    </item>
   </channel>
 </rss>
