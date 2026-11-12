@@ -158,5 +158,16 @@
         type="application/octet-stream"
         sparkle:edSignature="/6veSyBaweOH+rznL6y/5uNsmb5mrY+xnnCG/saoPT3VbKc9pZ5qhffJQxIpIpfQYYA2ATKW2JB1NP+4aC9qAQ=="/>
     </item>
+    <item>
+      <title>Version 1.8.3</title>
+      <sparkle:shortVersionString>1.8.3</sparkle:shortVersionString>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/onstonboy/polaris-dl/releases/download/v1.8.3/Polaris.dmg"
+        length="11906005"
+        type="application/octet-stream"
+        sparkle:edSignature="0TRY0n4fL9hXAFtsa3s4oR5Z14wgRWAbAF7WYjLkAgPmyciOAPKu+Hf1oT9JTtY7DUQ24wE9NMirXmW6ZSfECg=="/>
+    </item>
   </channel>
 </rss>
